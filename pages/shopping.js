@@ -1,4 +1,3 @@
-const items = ["Apples", "Oranges", "Pears", "Strawberries"];
 import React, { useState } from "react";
 
 export default () => {
